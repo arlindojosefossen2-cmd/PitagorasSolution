@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"br.com.ajf.math.prime","c":"PitagoraSolution","l":"prime(int)"}];updateSearchResults();
