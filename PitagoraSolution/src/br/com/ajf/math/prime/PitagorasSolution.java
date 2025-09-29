@@ -7,7 +7,7 @@ public final class PitagorasSolution
 {
 	
 	/**
-	 * Instantiates a new PitagorasSulution solution.
+	 *Can't Instantiates a new PitagorasSolution object.
 	 */
 	private PitagorasSolution()
 	{
@@ -18,7 +18,7 @@ public final class PitagorasSolution
 	 * Prime.
 	 *
 	 * @param xValue the x value
-	 * @return the long
+	 * @return the long value prime number
 	 */
 	public static final long prime(int xValue)
 	{
@@ -59,4 +59,5 @@ public final class PitagorasSolution
 		}	
 		return flagCounter;
 	}
+
 }
