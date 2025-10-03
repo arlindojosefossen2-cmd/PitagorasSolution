@@ -1,2 +1,2 @@
 # PitagorasSolution
-Programa que retorna um numero primo em funcao de um valor x de entrada
+Program that return a prime number by a x value.
